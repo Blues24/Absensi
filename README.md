@@ -2,8 +2,6 @@
 
 This project allows you to write data to an RFID card using an ESP8266 microcontroller and an MFRC522 RFID reader module. The project also includes an I2C LCD to display status messages.
 
-This branch is for testing only
-
 ## Features
 - Write custom data to RFID cards via Serial Monitor.
 - Display status messages on a 16x2 I2C LCD.
@@ -74,6 +72,5 @@ This branch is for testing only
 - **RFID not detected:** Ensure the RFID reader is properly connected and powered.
 
 ## License
-Still no license :(
-
+This project is under license GPL-3.0 license
  
