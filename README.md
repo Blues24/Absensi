@@ -23,7 +23,7 @@ This project allows you to write data to an RFID card using an ESP8266 microcont
 
 ## Wiring
 - **RFID Reader to ESP8266:**
-  - SDA: D1 (GPIO 5)
+  - SDA: D4 (GPIO 2)
   - SCK: D5 (GPIO 14)
   - MOSI: D7 (GPIO 13)
   - MISO: D6 (GPIO 12)
