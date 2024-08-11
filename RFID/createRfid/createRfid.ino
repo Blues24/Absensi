@@ -6,7 +6,6 @@
 #include <SPI.h>
 #include <MFRC522.h>
 #include <Wire.h>
-#include <LiquidCrystal_I2C.h>
 //Batas penambahan library
 
 //GPIO 0 --> PIN D3
